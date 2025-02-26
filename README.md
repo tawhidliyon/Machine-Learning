@@ -30,12 +30,6 @@ Install dependencies via `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-### 3️⃣ **Run Your First Model**
-Use the sample script to train a basic model:
-```bash
-python train_model.py --dataset your_dataset.csv --model RandomForest
-```
-
 ---
 
 ## **🛠️ Technologies Used**

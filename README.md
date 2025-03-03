@@ -20,7 +20,7 @@ Built with a focus on **simplicity**, **scalability**, and **performance**, this
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Machine-Learning.git
+git clone https://github.com/tawhidliyon/Machine-Learning.git
 cd Machine-Learning
 ```
 
